@@ -1,0 +1,93 @@
+{
+    "Catalogo": [
+        {
+            "id":1,
+            "titulo": "Avatar: O Caminho Da Água",
+            "tipoDeSala":"KINOEVOLUTION",
+            "valor": 19.99
+        },
+        {
+            "id":2,
+            "titulo": "Avatar: O Caminho Da Água",
+            "tipoDeSala":"KINOEVOLUTION",
+            "valor": 19.99
+        },
+        {
+            "id":3,
+            "titulo": "Avatar: O Caminho Da Água",
+            "tipoDeSala":"KINOEVOLUTION",
+            "valor": 19.99
+        },
+        {
+            "id":4,
+            "titulo": "Avatar: O Caminho Da Água",
+            "tipoDeSala":"KINOEVOLUTION",
+            "valor": 19.99
+        },
+        {
+            "id":5,
+            "titulo": "Avatar: O Caminho Da Água",
+            "tipoDeSala":"KINOEVOLUTION",
+            "valor": 19.99
+        }
+    ],
+    "cinemas": [
+        {
+            "idCinema":1,
+            "nome": "Kinoplex Madureira",
+            "endereço": "Estr. do Portela, 222 - Madureira" 
+        },
+        {
+            "idCinema":2,
+            "nome": "Kinoplex Madureira",
+            "endereço": "Estr. do Portela, 222 - Madureira" 
+        },
+        {
+            "idCinema":3,
+            "nome": "Kinoplex Madureira",
+            "endereço": "Estr. do Portela, 222 - Madureira" 
+        },
+        {
+            "idCinema":4,
+            "nome": "Kinoplex Madureira",
+            "endereço": "Estr. do Portela, 222 - Madureira" 
+        },
+        {
+            "idCinema":5,
+            "nome": "Kinoplex Madureira",
+            "endereço": "Estr. do Portela, 222 - Madureira" 
+        }
+    ],
+    "combos": [
+        {
+            "idCombo":1,
+            "comboNome": "Padrão",
+            "comboValor": 10,
+            "descricao": "Conta com X tamanho de pipica e um refrigerente tamanho Y"
+        },
+        {
+            "idCombo":2,
+            "comboNome": "Padrão",
+            "comboValor": 10,
+            "descricao": "Conta com X tamanho de pipica e um refrigerente tamanho Y"
+        },
+        {
+            "idCombo":3,
+            "comboNome": "Padrão",
+            "comboValor": 10,
+            "descricao": "Conta com X tamanho de pipica e um refrigerente tamanho Y"
+        },
+        {
+            "idCombo":4,
+            "comboNome": "Padrão",
+            "comboValor": 10,
+            "descricao": "Conta com X tamanho de pipica e um refrigerente tamanho Y"
+        },
+        {
+            "idCombo":5,
+            "comboNome": "Padrão",
+            "comboValor": 10,
+            "descricao": "Conta com X tamanho de pipica e um refrigerente tamanho Y"
+        }       
+    ]
+}   
