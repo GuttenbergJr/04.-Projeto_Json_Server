@@ -4,90 +4,137 @@
             "id":1,
             "titulo": "Avatar: O Caminho Da Água",
             "tipoDeSala":"KINOEVOLUTION",
-            "valor": 19.99
+            "direção":"James Cameron.",
+            "duração":"190 min"
         },
         {
             "id":2,
-            "titulo": "Avatar: O Caminho Da Água",
-            "tipoDeSala":"KINOEVOLUTION",
-            "valor": 19.99
+            "titulo": "Mundo Estranho",
+            "tipoDeSala":"Comum",
+            "direção":"Don Hall, Qui Nguyen",
+            "duração":"101 min"
         },
         {
             "id":3,
-            "titulo": "Avatar: O Caminho Da Água",
+            "titulo": "Pantera Negra: Wakanda Forever",
             "tipoDeSala":"KINOEVOLUTION",
-            "valor": 19.99
+            "direção":"Ryan Coogler.",
+            "duração":"161 min"
         },
         {
             "id":4,
-            "titulo": "Avatar: O Caminho Da Água",
+            "titulo": "Minions 2: A Origem de Gru",
             "tipoDeSala":"KINOEVOLUTION",
-            "valor": 19.99
+            "direção":"Kyle Balda, Brad Ableson",
+            "duração":"88 min"
         },
         {
             "id":5,
-            "titulo": "Avatar: O Caminho Da Água",
-            "tipoDeSala":"KINOEVOLUTION",
-            "valor": 19.99
+            "titulo": "Adão Negro",
+            "tipoDeSala":"Comum",
+            "direção":"Jaume Collet-Serra",
+            "duração":"125 min"
         }
+        
     ],
     "cinemas": [
         {
             "idCinema":1,
             "nome": "Kinoplex Madureira",
-            "endereço": "Estr. do Portela, 222 - Madureira" 
+            "endereço": [{
+                "Local":"Estr. do Portela",
+                "numero":"222",
+                "Bairro": "Madureira",
+                "CEP":"21351-050"
+            }
+            ] 
         },
         {
             "idCinema":2,
-            "nome": "Kinoplex Madureira",
-            "endereço": "Estr. do Portela, 222 - Madureira" 
+            "nome": "Kinoplex Nova America",
+            "endereço": [{
+                "Local":"Av. Pastor Martin Luther King Júnior",
+                "numero":"126",
+                "Bairro": "Del Castilho",
+                "CEP":"20760-005"
+            }
+            ] 
         },
         {
             "idCinema":3,
-            "nome": "Kinoplex Madureira",
-            "endereço": "Estr. do Portela, 222 - Madureira" 
+            "nome": "UCI Kinoplex Norte Shopping",
+            "endereço": [{
+                "Local":"Av. Dom Hélder Câmara",
+                "numero":"5474",
+                "Bairro": "Cachambi",
+                "CEP":"20771-004"
+            }
+            ] 
         },
         {
             "idCinema":4,
-            "nome": "Kinoplex Madureira",
-            "endereço": "Estr. do Portela, 222 - Madureira" 
+            "nome": "Kinoplex Tijuca",
+            "endereço": [{
+                "Local":"Av. Maracanã",
+                "numero":"987",
+                "Bairro": "Tijuca",
+                "CEP":"20511-000"
+            }
+            ] 
         },
         {
             "idCinema":5,
-            "nome": "Kinoplex Madureira",
-            "endereço": "Estr. do Portela, 222 - Madureira" 
+            "nome": "Kinoplex Via Parque",
+            "endereço": [{
+                "Local":"Av. Ayrton Senna",
+                "numero":"3000",
+                "Bairro": "Barra da Tijuca",
+                "CEP":"22775-904"
+            }
+            ] 
         }
+        
     ],
     "combos": [
         {
             "idCombo":1,
-            "comboNome": "Padrão",
+            "comboNome": "Combo 1",
             "comboValor": 10,
-            "descricao": "Conta com X tamanho de pipica e um refrigerente tamanho Y"
+            "refil incluso":"Não",
+            "brinde vip":"Não"
+            
         },
         {
             "idCombo":2,
-            "comboNome": "Padrão",
-            "comboValor": 10,
-            "descricao": "Conta com X tamanho de pipica e um refrigerente tamanho Y"
+            "comboNome": "Combo 2",
+            "comboValor": 15,
+            "refil incluso":"Não",
+            "brinde vip":"Não"
+            
         },
         {
             "idCombo":3,
-            "comboNome": "Padrão",
-            "comboValor": 10,
-            "descricao": "Conta com X tamanho de pipica e um refrigerente tamanho Y"
+            "comboNome": "Combo 3",
+            "comboValor": 20,
+            "refil incluso":"Sim",
+            "brinde vip":"Não"
+            
         },
         {
             "idCombo":4,
-            "comboNome": "Padrão",
-            "comboValor": 10,
-            "descricao": "Conta com X tamanho de pipica e um refrigerente tamanho Y"
+            "comboNome": "Combo 4",
+            "comboValor": 25,
+            "refil incluso":"Sim",
+            "brinde vip":"Não"
+            
         },
         {
             "idCombo":5,
-            "comboNome": "Padrão",
-            "comboValor": 10,
-            "descricao": "Conta com X tamanho de pipica e um refrigerente tamanho Y"
+            "comboNome": "Combo 5",
+            "comboValor": 30,
+            "refil incluso":"Sim",
+            "brinde vip":"Sim"
+            
         }       
     ]
 }   
