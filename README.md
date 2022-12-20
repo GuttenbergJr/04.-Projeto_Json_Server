@@ -1,6 +1,8 @@
-# Trabalho individual - Módulo 3 - Json Server
+# Projeto individual - Módulo 3 - Json Server
 
-- asdjojaisdjasdjasd
+## Ferramentas utilizadas 📋
+
+<p> asdijoihoasdhioasdhioihoads </p>
 
 
 
