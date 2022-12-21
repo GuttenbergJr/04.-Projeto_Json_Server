@@ -1,18 +1,18 @@
 # Projeto individual - Módulo 3 - Json Server
 
-## 📌 Finalidade 
+## 📌 Finalidade :
 
 <p> O projeto consiste em desenvolver um
 Json-server que contenha três rotas, onde cada
 rota deve conter quatro ou mais dados já
 pré-preenchidos. </p>
 
-## 🛠️ Ferramentas utilizadas 
+## 🛠️ Ferramentas utilizadas: 
 
 - Node 
 - Javascript
 - Render 
 
-## 📋 Link de acesso ao Json-Server
+## 📋 Link de acesso ao Json-Server:
 
 <p> Clique aqui => https://trab-individual-modulo3-jsonserver.onrender.com/</p>
