@@ -13,6 +13,6 @@ pré-preenchidos. </p>
 - Javascript
 - Render 
 
-## 📋 Para mais informações sobre o projeto
+## 📋 Link de acesso ao Json-Server
 
 <p> Clique aqui => https://trab-individual-modulo3-jsonserver.onrender.com/</p>
