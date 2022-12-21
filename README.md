@@ -1,10 +1,10 @@
 # Projeto individual - Módulo 3 - Json Server
 
-## Finalidade 📦
+## Finalidade 
 
 <p> Desenvolver um servidor, com três rotas com 4 ou mais dados. </p>
 
-## Ferramentas utilizadas 🛠️
+## 🛠️ Ferramentas utilizadas 
 
 <p> Foram utilizados: </p>
 
