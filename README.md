@@ -3,7 +3,7 @@
 ## 📌 Finalidade :
 
 <p> O projeto consiste em desenvolver um
-Json-server que contenha três rotas, onde cada
+Json-server que contenha três rotas. Onde cada
 rota deve conter quatro ou mais dados já
 pré-preenchidos. </p>
 
@@ -15,4 +15,4 @@ pré-preenchidos. </p>
 
 ## 📋 Link de acesso ao Json-Server:
 
-<p> Clique aqui => https://trab-individual-modulo3-jsonserver.onrender.com/</p>
+<p> Clique aqui ➡ https://trab-individual-modulo3-jsonserver.onrender.com/</p>
