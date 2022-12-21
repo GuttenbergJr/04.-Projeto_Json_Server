@@ -2,7 +2,7 @@
 
 ## Finalidade 
 
-<p> Desenvolver um servidor, com três rotas com 4 ou mais dados. </p>
+<p> Desenvolver um servidor, com 3 rotas com 4 ou mais dados. </p>
 
 ## 🛠️ Ferramentas utilizadas 
 
