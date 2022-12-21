@@ -6,7 +6,9 @@
 
 ## 🛠️ Ferramentas utilizadas 
 
-<p> Foram utilizados: </p>
+<p> ⚙ Foram utilizados </p>
+
+<p> </p>
 
 <img  alt="Node-JS" height="30" width="40" src="https://user-images.githubusercontent.com/114154174/208790245-d1616242-3866-4800-985e-2e931034b2a1.png">
 
