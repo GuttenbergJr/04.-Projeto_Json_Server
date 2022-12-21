@@ -2,7 +2,10 @@
 
 ## 📌 Finalidade 
 
-<p> Desenvolver um servidor Json, com 3 rotas e com 4 ou mais dados. </p>
+<p> O projeto consiste em desenvolver um
+Json-server que contenha três rotas, onde cada
+rota deve conter quatro ou mais dados já
+pré-preenchidos. </p>
 
 ## 🛠️ Ferramentas utilizadas 
 
