@@ -1,9 +1,6 @@
-# Projeto individual - Módulo 3 - Json Server
-
 ## 📌 Finalidade :
 
-<p> O projeto consiste em desenvolver um
-Json-server que contenha três rotas. Onde cada
+<p> O projeto consiste em desenvolver uma API REST que contenha três rotas. Onde cada
 rota deve conter quatro ou mais dados já
 pré-preenchidos. </p>
 
